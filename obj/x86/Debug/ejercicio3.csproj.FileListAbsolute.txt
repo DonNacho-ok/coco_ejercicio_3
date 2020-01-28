@@ -1,0 +1,6 @@
+/root/Desktop/lagash university/ejercicios/ejercicio3/ejercicio3/ejercicio3/bin/Debug/ejercicio3.exe
+/root/Desktop/lagash university/ejercicios/ejercicio3/ejercicio3/ejercicio3/bin/Debug/ejercicio3.pdb
+/root/Desktop/lagash university/ejercicios/ejercicio3/ejercicio3/ejercicio3/obj/x86/Debug/ejercicio3.csprojAssemblyReference.cache
+/root/Desktop/lagash university/ejercicios/ejercicio3/ejercicio3/ejercicio3/obj/x86/Debug/ejercicio3.csproj.CoreCompileInputs.cache
+/root/Desktop/lagash university/ejercicios/ejercicio3/ejercicio3/ejercicio3/obj/x86/Debug/ejercicio3.exe
+/root/Desktop/lagash university/ejercicios/ejercicio3/ejercicio3/ejercicio3/obj/x86/Debug/ejercicio3.pdb
